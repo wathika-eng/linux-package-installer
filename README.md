@@ -1,3 +1,5 @@
+** STILL IN DEVELOPMENT PHASE, USE ONLY ON A VM **
+
 # Package Installer
 
 Package Installer is a simple script for installing packages on Linux systems using APT and Snap package managers.
