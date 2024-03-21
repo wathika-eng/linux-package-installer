@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 # AUTHORS - WATHIKA
 # DATE - 2024-03-21
 # VERSION - 1.0

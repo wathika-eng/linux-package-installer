@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-curl -sS https://raw.githubusercontent.com/wathika-eng/linux-package-installer/main/install -o /usr/local/bin/install
+curl -sS https://raw.githubusercontent.com/wathika-eng/linux-package-installer/main/install.py -o /usr/local/bin/install
 
 
 chmod +x /usr/local/bin/install
